@@ -1,0 +1,48 @@
+---
+- :title: Disaster Movie
+  :year: '2008'
+  :director: Jason Friedberg
+  :storyline: Over the course of one evening, an unsuspecting group of twenty-somethings
+    find themselves bombarded by a series of natural disasters and catastrophic events.
+  :cast:
+  - Matt Lanter
+  - Vanessa Lachey
+  - Gary 'G. Thang' Johnson
+- :title: 'Superbabies: Baby Geniuses 2'
+  :year: '2004'
+  :director: Bob Clark
+  :storyline: A group of smart-talking toddlers find themselves at the center of a
+    media mogul's experiment to crack the code to baby talk. The toddlers must race
+    against time for the sake of babies everywhere.
+  :cast:
+  - Jon Voight
+  - Scott Baio
+  - Vanessa Angel
+- :title: 'Manos: The Hands of Fate'
+  :year: '1966'
+  :director: Harold P. Warren
+  :storyline: A family gets lost on the road and stumbles upon a hidden, underground,
+    devil-worshiping cult led by the fearsome Master and his servant Torgo.
+  :cast:
+  - Tom Neyman
+  - John Reynolds
+  - Diane Adelson
+- :title: 'Birdemic: Shock and Terror'
+  :year: '2010'
+  :director: James Nguyen
+  :storyline: A horde of mutated birds descends upon the quiet town of Half Moon Bay,
+    California. With the death toll rising, Two citizens manage to fight back, but
+    will they survive Birdemic?
+  :cast:
+  - Alan Bagh
+  - Whitney Moore
+  - Tippi Hedren
+- :title: Kod Adi K.O.Z.
+  :year: '2015'
+  :director: Celal Çimen
+  :storyline: A look at the 17-25 December 2013 corruption scandal in Turkey, from
+    the viewpoint of the Erdogan government.
+  :cast:
+  - Cem Kurtoglu
+  - Hakan Ural
+  - Hazim Körmükcü
